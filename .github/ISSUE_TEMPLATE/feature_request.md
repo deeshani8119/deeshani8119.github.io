@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Deeshani Mitra
 about: Suggest an idea for this project
 title: ''
 labels: ''
